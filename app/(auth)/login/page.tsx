@@ -1,6 +1,7 @@
 import { LoginForm } from '@/components/sections/LoginForm';
 import { AuthTemplate } from '@/components/templates/AuthTemplate';
 
+// 메타데이터 설정
 export const metadata = {
   title: '로그인',
   description: '계정에 로그인하세요.',
