@@ -12,6 +12,8 @@ export const APP_ROUTES = {
     ROOT: '/dashboard',
     HOME: '/dashboard',
     SHOWCASE: '/dashboard/showcase',
+    STATS: '/dashboard/stats',
+    USERS: '/dashboard/users',
     SETTINGS: '/dashboard/settings',
   },
 

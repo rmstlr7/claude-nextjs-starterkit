@@ -34,12 +34,14 @@ export const NAV_ITEMS: NavItem[] = [
   {
     title: '통계',
     icon: BarChart3,
-    href: APP_ROUTES.DASHBOARD.HOME,
+    href: APP_ROUTES.DASHBOARD.STATS,
+    disabled: true,
   },
   {
     title: '사용자',
     icon: Users,
-    href: APP_ROUTES.DASHBOARD.HOME,
+    href: APP_ROUTES.DASHBOARD.USERS,
+    disabled: true,
   },
   {
     title: '설정',
