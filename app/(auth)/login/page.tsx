@@ -7,6 +7,7 @@ export const metadata = {
   description: '계정에 로그인하세요.',
 };
 
+// 페이지 컴포넌트 정의
 export default function LoginPage() {
   return (
     <AuthTemplate
